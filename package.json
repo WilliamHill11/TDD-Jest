@@ -1,0 +1,23 @@
+{
+  "name": "tdd-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamHill11/TDD-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamHill11/TDD-Jest/issues"
+  },
+  "homepage": "https://github.com/WilliamHill11/TDD-Jest#readme",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
